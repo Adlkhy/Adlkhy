@@ -1,39 +1,36 @@
-# Hi there, I'm Adok 👋  
+# Hi, I'm Adok 👋  
 
-🎓 **Cybersecurity Student** at [Astana IT University](https://astanait.edu/)  
-💻 Passionate about **Software Engineering, Data Analysis, and Web Development**  
-📈 Certified in **Google Data Analytics** and **Harvard Python (CS50)**  
-
----
-
-## 🚀 About Me  
-- 🌐 I’ve built a **portfolio website** to showcase my work  
-- ✨ Created a **Hopecore website** just for fun & creativity  
-- 🐍 Completed **Python & Django projects** through Harvard CS50  
-- 🔒 Exploring the world of **Cybersecurity** with interest in real-world applications  
-- 🎯 Aiming for **high-paying opportunities, new challenges, and global impact**  
+🎓 Cybersecurity student at Astana IT University  
+💻 Interested in Software Engineering, Web Development, and Data Analysis  
+📈 Certified in Google Data Analytics & Harvard CS50 Python  
 
 ---
 
-## 🛠️ Tech Stack  
+## About Me  
+- Built a **portfolio website** to showcase my projects  
+- Created a **Hopecore website** for design and creative practice  
+- Completed **Python & Django projects** from Harvard CS50  
+- Continuously learning **cybersecurity and modern web technologies**  
+- Motivated by new challenges, growth, and impactful opportunities  
+
+---
+
+## Skills  
 - **Languages:** Python, JavaScript, SQL  
 - **Frameworks & Tools:** Django, Bootstrap, Next.js, Tailwind CSS  
 - **Other Skills:** Data Analysis, Git/GitHub, Cybersecurity fundamentals  
 
 ---
 
-## 📌 Featured Projects  
-- [📂 Portfolio Website](#) *(personal showcase)*  
-- [🌸 Hopecore Website](#) *(creative design project)*  
-- [🐍 Python & Django Projects](#) *(Harvard CS50)*  
+## Projects  
+- [Portfolio Website](#) – Personal website to present my work  
+- [Hopecore Website](#) – Creative project exploring design & usability  
+- [Python & Django Projects](#) – Coursework and practice from CS50  
 
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- ✉️ Email: *your-email@example.com*  
-- 🐦 Maybe Twitter or Telegram if you want?  
+## Contact  
+- [LinkedIn](https://linkedin.com/in/your-link)  
+- Email: your-email@example.com  
 
 ---
-
-⭐️ From [Adok](https://github.com/yourusername)  
